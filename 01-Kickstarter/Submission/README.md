@@ -34,8 +34,7 @@ For building the data set based on launch date, there was no direct field availa
 
 For building the data set on outcome percentage based on goal ranges, one option was to type in all the ranges in the formula. Instead used a formula to refer to another columns to derive the data. This can help in changing ranges in future if needed. Also enabled a capability to have a variable subcategory option to check on other subcategory results.
 
-The below file has these formulas used.
-[Kickstarter_Challenge](Kickstarter_Challenge.xlsx)
+Link to the file having these formulas: [Kickstarter_Challenge](Kickstarter_Challenge.xlsx)
 
 From a data standpoint, lack of data with higher funding goals posed a challenge to assess the campaign success rate in these scenarios. One option would be to use a 50% probability in these cases until we get more data.
 
@@ -45,19 +44,19 @@ From a data standpoint, lack of data with higher funding goals posed a challenge
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-1. Campaigns Mid year (May, Jun and July) has a higher success probability compared to other months. Due to this very reason observed higher number of campaigns happen mid year.
-2. Failed/Cancelled campaigns remained at the same rate though the year further giving confidence on this data point.
+    1. Campaigns Mid year (May, Jun and July) has a higher success probability compared to other months. Due to this very reason observed higher number of campaigns happen mid year.
+    2. Failed/Cancelled campaigns remained at the same rate though the year further giving confidence on this data point.
 
 - What can you conclude about the Outcomes based on Goals?
 
-1. Lower campaign funding goals (less than $20,000) had a higher success rate, while higher funding goals had a lower success rate.
+    Lower campaign funding goals (less than $20,000) had a higher success rate, while higher funding goals had a lower success rate.
 
 - What are some limitations of this dataset?
 
-1. The dataset did not have more campaign details with higher funding goals not able to make a good judgement on their success rate.
+    The dataset did not have more campaign details with higher funding goals not able to make a good judgement on their success rate.
 
 - What are some other possible tables and/or graphs that we could create?
 
-* A box plot could help in checking if there are any outliers
-* Relation to number of backers to success percentage
-* Mean/Median/Standard Deviation based on goals and pledged amount
+    * A box plot could help in checking if there are any outliers
+    * Relation to number of backers to success percentage
+    * Mean/Median/Standard Deviation based on goals and pledged amount
