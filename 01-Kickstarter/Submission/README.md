@@ -72,7 +72,7 @@ The chart clearly shows a higher success rate lower funding goals and higher fai
       * Sorted dataset to view based on increased funding
     * Mean/Median/Standard Deviation based on goals and pledged amount
 
-    * Sample Visualizations to Explore
+    * Sample Visualizations to Explore (Link: [data-1-1-3-StarterBook.xlsx](resources/data-1-1-3-StarterBook.xlsx))
       * Box Plot
       ![GoalOutliers](resources/GoalOutliers.png)
 
@@ -80,5 +80,5 @@ The chart clearly shows a higher success rate lower funding goals and higher fai
       ![SuccessVisualization](resources/SuccessVisualization.png)
 
       * Mean Median Table
-      
+
       ![MeanMedianTable](resources/MeanMedianTable.png)
