@@ -80,4 +80,5 @@ The chart clearly shows a higher success rate lower funding goals and higher fai
       ![SuccessVisualization](resources/SuccessVisualization.png)
 
       * Mean Median Table
+      
       ![MeanMedianTable](resources/MeanMedianTable.png)
