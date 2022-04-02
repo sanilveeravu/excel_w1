@@ -6,7 +6,7 @@ This project is to understand the relationship of a campaign outcome based on di
 
 ### Purpose
 
-The goal of this project is to understand different parameters to consider for a successful campaign. Few options planned to explore are to check if there is any specific time period where campaigns are more successful and if campaigns funding goals play any role its success. 
+The goal of this project is to understand different parameters to consider for a successful campaign. Few options planned to explore are to check if there is any specific time period where campaigns are more successful and if campaigns funding goals play any role its success.
 
 ---
 
@@ -16,7 +16,7 @@ The goal of this project is to understand different parameters to consider for a
 
 #### Analysis
 
-The first analysis was done by creating a pivot table that could filter based on category and have the count of campaings by outcome over each months. This helped in giving a new table with all required data grouped as needed. The below chart was built to show the outcome based on campaigns lauched over the years in different months for the parent category of theatre. 
+The first analysis was done by creating a pivot table that could filter based on category and have the count of campaings by outcome over each months. This helped in giving a new table with all required data grouped as needed. The below chart was built to show the outcome based on campaigns lauched over the years in different months for the parent category of theatre.
 
 #### Observations
 
@@ -26,9 +26,9 @@ There was a clear indication that the months of May, June and July had higher su
 
 ### Analysis of Outcomes Based on Goals
 
-#### Analysis 
+#### Analysis
 
-The second analysis was done by putting a formula to get the outcome percentage based on funding goal ranges. An excel function of COUNTIFS was used to filter and get counts based on the required filter criteria. The below chart shows the percentage of outcomes that were successful or failed for "plays" subcategory based on the funding goal ranges. 
+The second analysis was done by putting a formula to get the outcome percentage based on funding goal ranges. An excel function of COUNTIFS was used to filter and get counts based on the required filter criteria. The below chart shows the percentage of outcomes that were successful or failed for "plays" subcategory based on the funding goal ranges.
 
 #### Observations
 
@@ -67,4 +67,16 @@ The chart clearly shows a higher success rate lower funding goals and higher fai
 
     * A box plot could help in checking if there are any outliers
     * Relation to number of backers to success percentage
+      * Removed Outliers as higher funding showed unsuccessful campaigns
+      * Set a value of 1000 or 900 to visualize successful and failed/cancelled.
+      * Sorted dataset to view based on increased funding
     * Mean/Median/Standard Deviation based on goals and pledged amount
+
+    * Box Plot
+    ![GoalOutliers](resources/GoalOutliers.png)
+
+    * Success Visualization
+    ![GoalOutliers](resources/GoalOutliers.png)
+
+    * Mean Median Table
+    ![MeanMedianTable](resources/MeanMedianTable.png)
